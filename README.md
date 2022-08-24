@@ -10,7 +10,7 @@
 
 Click here to visit my LinkedIn page! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ross-mcwey-079347168/)
 
-Click here to email me! [:envelope: Email](mailto:rmcwey@hotmail.com) 
+Click here to email me! [:envelope: Email](mailto:rossmcwey@gmail.com) 
 
 ## Expertise:
 
