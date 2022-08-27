@@ -1,10 +1,10 @@
 👋 Hi, I’m Ross
 <br>
-👀 I’m interested in learning more about programming and using the skills I have gained!
+👀 I’m interested in using the skills I have gained!
 <br>
-🌱 I’m currently looking for junior web developer jobs after graduating from the GA TECH Bootcamp
+🌱 I’m currently looking for junior web developer jobs after graduating from the GA TECH boot camp
 <br>
-💞️ I’m looking to collaborate on any entry level project I can learn on
+💞️ I’m looking to collaborate on any project I can learn on
 <br>
 :grinning: Here is a link to my current portfolio: https://rmcwey.github.io/Profile-REACTion/
 
