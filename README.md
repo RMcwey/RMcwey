@@ -1,8 +1,6 @@
 👋 Hi, I’m Ross
 <br>
-👀 I’m interested in using the skills I have gained!
-<br>
-🌱 I’m currently looking for junior web developer jobs after graduating from the GA TECH boot camp.
+🌱 I’m currently looking for web developer and software engineering jobs after graduating from the GA TECH boot camp.
 <br>
 💞️ I’m looking to collaborate on any project I can learn on.
 <br>
