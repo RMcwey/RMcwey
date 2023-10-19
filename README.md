@@ -1,9 +1,5 @@
 👋 Hi, I’m Ross
 <br>
-🌱 I’m currently looking for web developer and software engineering jobs after graduating from the GA TECH boot camp.
-<br>
-💞️ I’m looking to collaborate on any project I can learn on.
-<br>
 :grinning: Here is a link to my current portfolio: https://rmcwey.github.io/Profile-REACTion/
 
 Click here to visit my LinkedIn page! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ross-mcwey-079347168/)
