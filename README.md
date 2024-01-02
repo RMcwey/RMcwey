@@ -1,4 +1,4 @@
-👋 Hi, I’m Ross
+👋 Hi, I’m Ross McWey
 <br>
 :grinning: Here is a link to my current portfolio: https://rmcwey.github.io/Profile-REACTion/
 
